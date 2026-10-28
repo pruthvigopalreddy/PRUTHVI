@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../images/userLog.png</file>
+        <file>../images/userList.png</file>
+        <file>../images/reload.png</file>
+        <file>../images/pwd.png</file>
+        <file>../images/open.png</file>
+        <file>../images/logout.png</file>
+        <file>../images/log.png</file>
+        <file>../images/forward.png</file>
+        <file>../images/folder.png</file>
+        <file>../images/file.png</file>
+        <file>../images/ecil.png</file>
+        <file>../images/drdo_icon.png</file>
+        <file>../images/connect_icon.png</file>
+        <file>../images/commander_icon.png</file>
+        <file>../images/clear.png</file>
+        <file>../images/back.png</file>
+        <file>../images/admin_icon.png</file>
+        <file>../images/addUser.png</file>
+        <file>../images/akashMissile.png</file>
+        <file>../images/go.png</file>
+        <file>../images/home.png</file>
+        <file>../images/save.png</file>
+        <file>../images/pass.png</file>
+        <file>../images/next.png</file>
+        <file>../images/fail.png</file>
+        <file>../images/report_generate.png</file>
+        <file>../images/browser.png</file>
+        <file>../images/digitalSIM.png</file>
+        <file>../images/loading.gif</file>
+        <file>../images/MCFS.png</file>
+        <file>../images/exportBannerEng.png</file>
+        <file>../images/exportBannerRus.png</file>
+        <file>../images/primeBannerEng.png</file>
+        <file>../images/primeBannerRus.png</file>
+        <file>../languages/rus.ts</file>
+        <file>../languages/rus.qm</file>
+    </qresource>
+</RCC>
